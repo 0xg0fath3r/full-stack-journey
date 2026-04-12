@@ -52,4 +52,8 @@ HTML boilerplate: It's like a ready-made template for your webpages.
 </html>: 
 This wraps around all your content, and can specify the language of your page.
 
+# My first Workshop
+<img width="1900" height="1058" alt="image" src="https://github.com/user-attachments/assets/479faf0f-bb5b-43dd-abea-3f933c322065" />
+
+
 
