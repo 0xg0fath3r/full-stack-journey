@@ -45,19 +45,11 @@ e.g <link rel="stylesheet" href="./styles.css" /> the rel shows relationship bet
 It is considered best practice to separate your HTML and CSS in different files. 
 
 HTML boilerplate: It's like a ready-made template for your webpages.
-e.g 
+<!DOCTYPE html>: It tells browsers which version of HTML you're using.
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="utf-8" />
-    <meta
-       name="viewport"
-       content="width=device-width, initial-scale=1.0" />
-    <title>freeCodeCamp</title>
-    <link rel="stylesheet" href="./styles.css" />
-  </head>
-  <body>
-  </body>
-</html>
+  <!--All other elements go inside here-->
+</html>: 
+This wraps around all your content, and can specify the language of your page.
 
 
