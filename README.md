@@ -1,7 +1,7 @@
 # full-stack-journey
 **Document my full-stack journey**
 
-
+***#HTML***
 HTML, which stands for Hypertext Markup Language, is a markup language for creating web pages. 
 When you visit a website and see content like paragraphs, headings, links, images, and videos.
 
@@ -36,3 +36,28 @@ These attributes are used to specify the state of an element, such as whether it
 
 <img width="1911" height="1056" alt="image" src="https://github.com/user-attachments/assets/2fe47141-c89e-4421-8b6e-da95269bf1c7" />
 This is my second project on freeCodecamp
+
+
+
+I also learn about the use of "Link" element in HTML tag.
+The "link" element is used to link to external resources like stylesheets and site icons.
+e.g <link rel="stylesheet" href="./styles.css" /> the rel shows relationship between linked resource and the HTML document. 
+It is considered best practice to separate your HTML and CSS in different files. 
+
+HTML boilerplate: It's like a ready-made template for your webpages.
+e.g 
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta
+       name="viewport"
+       content="width=device-width, initial-scale=1.0" />
+    <title>freeCodeCamp</title>
+    <link rel="stylesheet" href="./styles.css" />
+  </head>
+  <body>
+  </body>
+</html>
+
+
