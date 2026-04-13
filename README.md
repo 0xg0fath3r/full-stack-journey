@@ -1,6 +1,7 @@
 # full-stack-journey
 **Document my full-stack journey**
 
+# Day 1
 ***#HTML***
 HTML, which stands for Hypertext Markup Language, is a markup language for creating web pages. 
 When you visit a website and see content like paragraphs, headings, links, images, and videos.
@@ -54,6 +55,24 @@ This wraps around all your content, and can specify the language of your page.
 
 # My first Workshop
 <img width="1900" height="1058" alt="image" src="https://github.com/user-attachments/assets/479faf0f-bb5b-43dd-abea-3f933c322065" />
+
+
+
+
+# Day 2
+
+I learnt about how to use the div and section elements.
+Section tells browsers that this is a distinct section in the web page.
+while div is most used when styling i.e CSS.
+div element can also include some attributes like the "id" and "class" attributes.
+the "id" attribute adds a unique identifier to the an HTML element, and it needs to be unique
+Classes are best used when you want to apply a set of styles to many elements. 
+If you want to target a specific element, it is best to use id because those values need to be unique.
+I also learn about the use of HTML entities such as named, decimal, and hexadecimal. Entities when you need to add some symbols that HTML use in its syntax e.g <p>&lt;p&gt;learning is fun&lt;/p&gt;</p>
+
+<img width="1919" height="1159" alt="image" src="https://github.com/user-attachments/assets/a5da409c-f642-47f2-a890-9a6f4348b71c" />
+
+**Workshop 2**
 
 
 
