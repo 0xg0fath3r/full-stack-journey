@@ -76,3 +76,14 @@ I also learn about the use of HTML entities such as named, decimal, and hexadeci
 
 
 
+
+
+
+
+
+<img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/b4e6e7de-3ea5-4e9d-9403-19b7cc1113dc" />
+**Lab 3**
+This one will go down as one of the first exercise that I actually struggled to solve. so after creating a section for the images, each image must have a tag called figure, you will add an anchor tag as the first child of the figure tag, then you will now add the image before closing the tag. I had to do it 3 times to be able to understand it, it made the image clickable like a link.
+
+
+
