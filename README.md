@@ -98,6 +98,18 @@ This is an exercise I just completed on svg.
 <img width="1919" height="1106" alt="image" src="https://github.com/user-attachments/assets/56d7d34c-7b5a-4bfb-9cb1-2676cbb65136" />
 
 
+I also learnt about The Replace Elements: A replaced element is an element whose content is determined by an external resource rather than by CSS itself.
+With replaced elements, you can control the position, or layout of an element. But your CSS cannot directly modify the content of that element. 
+examples include: img, video, audio, & iframe(inline Frame) elements; the iframe element allows you to add resources from another website like videos from YouTube, map etc.
+CSS can't modify it but it can only change the positioning.
+I also learnt that If you want to embed direct HTML within the iframe element you have to use the srcdoc attribute instead of src.
+
+
+<img width="1913" height="1148" alt="image" src="https://github.com/user-attachments/assets/565f4dbf-5649-4bfe-87b1-105d774464e0" />
+
+# Lab 5
+
+
 
 
 
