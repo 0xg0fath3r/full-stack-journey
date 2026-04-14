@@ -90,3 +90,15 @@ This one will go down as one of the first exercise that I actually struggled to 
 
 
 
+# Day 3
+
+I learnt about media formats like png, jpg, and svg; png is a lossless format in the the sense that when compressed it doesn't lose quality, while jpg is lossy. svg is store in the form of xml it mostly used for icons on the webpage or the web logo display on the tab in the browser.
+
+This is an exercise I just completed on svg.
+<img width="1919" height="1106" alt="image" src="https://github.com/user-attachments/assets/56d7d34c-7b5a-4bfb-9cb1-2676cbb65136" />
+
+
+
+
+
+
