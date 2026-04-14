@@ -83,7 +83,11 @@ I also learn about the use of HTML entities such as named, decimal, and hexadeci
 
 <img width="1919" height="1091" alt="image" src="https://github.com/user-attachments/assets/b4e6e7de-3ea5-4e9d-9403-19b7cc1113dc" />
 **Lab 3**
-This one will go down as one of the first exercise that I actually struggled to solve. so after creating a section for the images, each image must have a tag called figure, you will add an anchor tag as the first child of the figure tag, then you will now add the image before closing the tag. I had to do it 3 times to be able to understand it, it made the image clickable like a link.
+This one will go down as one of the first exercise that I actually struggled to solve. 
+so after creating a section for the images, each image must have a tag called figure, 
+you will add an anchor tag as the first child of the figure tag, 
+then you will now add the image before closing the tag. 
+I had to do it 3 times to be able to understand it, it made the image clickable like a link.
 
 <img width="1906" height="1149" alt="image" src="https://github.com/user-attachments/assets/d57ad33f-5971-47ec-8c0a-f98d1ffa14b7" />
 # Lab 4
@@ -92,22 +96,42 @@ This one will go down as one of the first exercise that I actually struggled to 
 
 # Day 3
 
-I learnt about media formats like png, jpg, and svg; png is a lossless format in the the sense that when compressed it doesn't lose quality, while jpg is lossy. svg is store in the form of xml it mostly used for icons on the webpage or the web logo display on the tab in the browser.
+I learnt about media formats like png, jpg, and svg; png is a lossless format in the the sense 
+that when compressed it doesn't lose quality, while jpg is lossy. 
+svg is store in the form of xml it mostly used for icons on the webpage or 
+the web logo display on the tab in the browser.
 
 This is an exercise I just completed on svg.
 <img width="1919" height="1106" alt="image" src="https://github.com/user-attachments/assets/56d7d34c-7b5a-4bfb-9cb1-2676cbb65136" />
 
 
-I also learnt about The Replace Elements: A replaced element is an element whose content is determined by an external resource rather than by CSS itself.
-With replaced elements, you can control the position, or layout of an element. But your CSS cannot directly modify the content of that element. 
-examples include: img, video, audio, & iframe(inline Frame) elements; the iframe element allows you to add resources from another website like videos from YouTube, map etc.
+I also learnt about The Replace Elements: A replaced element is an element whose content is 
+determined by an external resource rather than by CSS itself.
+With replaced elements, you can control the position, or layout of an element. 
+But your CSS cannot directly modify the content of that element. 
+examples include: img, video, audio, & iframe(inline Frame) elements; 
+the iframe element allows you to add resources from another website like videos from YouTube, map etc.
 CSS can't modify it but it can only change the positioning.
-I also learnt that If you want to embed direct HTML within the iframe element you have to use the srcdoc attribute instead of src.
+I also learnt that If you want to embed direct HTML within the iframe element you 
+have to use the srcdoc attribute instead of src.
 
 
 <img width="1913" height="1148" alt="image" src="https://github.com/user-attachments/assets/565f4dbf-5649-4bfe-87b1-105d774464e0" />
 
 # Lab 5
+
+
+
+I continued with HTML Semantics: Semantics are the meaning of words, 
+or phrases, in a language; while Syntax is talking about the structure of the programming language.
+I learnt that using the right semantics help with a lot of things such as SEO, 
+instead of the browser to start thinking or assigning what you page does you already did 
+that using the right semantics which is good practice.
+
+I continued with description elements: dl, dt, dd (Description lists are perfect 
+for presenting terms and definitions in an organized and easy-to-read format, 
+like in a glossary, or real dictionary, where you can find words with their corresponding definitions.)
+dl-description data; dt-description term; dd-description data
 
 
 
