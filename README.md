@@ -154,6 +154,9 @@ The rt element, or ruby text element, is used to indicate text for the ruby anno
 This text is usually used for pronunciation, or translation details in East Asian typography.
 
 
+# Workshop
+<img width="1910" height="1105" alt="image" src="https://github.com/user-attachments/assets/c368f433-5d51-4e88-ace0-565d3e3a5ef1" />
+
 
 
 
