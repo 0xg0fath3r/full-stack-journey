@@ -159,4 +159,11 @@ This text is usually used for pronunciation, or translation details in East Asia
 
 
 
+# Day 5
+I completed this lab (**Lab 6**)
+<img width="1912" height="1103" alt="image" src="https://github.com/user-attachments/assets/4c68805e-4953-448c-be42-abfbc84017de" />
+
+
+
+
 
