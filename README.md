@@ -163,6 +163,12 @@ This text is usually used for pronunciation, or translation details in East Asia
 I completed this lab (**Lab 6**)
 <img width="1912" height="1103" alt="image" src="https://github.com/user-attachments/assets/4c68805e-4953-448c-be42-abfbc84017de" />
 
+I learnt how to work with forms, labels, and inputs(user inputs).
+The form element in HTML is used to gather user information, such as names and email addresses.
+input elements are void elements and do not have closing tags. The type attribute defines the 
+data type expected from the user.
+To add a label for the input, you would use a label element.
+
 
 
 
