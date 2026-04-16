@@ -168,7 +168,25 @@ The form element in HTML is used to gather user information, such as names and e
 input elements are void elements and do not have closing tags. The type attribute defines the 
 data type expected from the user.
 To add a label for the input, you would use a label element.
+I also learnt the use of the button element; The button element is used to perform a particular action when it is activated. 
+This is one of the important things i learnt today; When a user fills out a form on your website, it is important that they
+fill out all of the necessary information in the correct format. HTML form controls, like inputs, have a lot of built-in
+validation that you can use to check for invalid data. This will help ensure that the user fixes these mistakes before the
+information is submitted and processed by the server.
 
+The term "client-side" refers to everything that happens on the user's computer or device, like the part of a website or app
+you interact with directly. This includes the layout, design, and any interactive features.
+
+The term "server-side" refers to everything that happens on the server, the computer, or system, that hosts the website or
+app. This includes processing data, running applications, and handling requests that come from the user's device.
+
+While client-side validation is important, you also need server-side validation for added security. Malicious users can
+bypass client-side checks, so robust server-side measures are essential. You'll learn more about this in a later module. For
+now, let's take a look at some examples of client-side form validation.
+
+
+# WOrkshop
+<img width="1901" height="1102" alt="image" src="https://github.com/user-attachments/assets/a235f331-8563-4237-a59e-3c2aaffc8976" />
 
 
 
