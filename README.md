@@ -185,7 +185,7 @@ bypass client-side checks, so robust server-side measures are essential. You'll 
 now, let's take a look at some examples of client-side form validation.
 
 
-# WOrkshop
+# Workshop
 <img width="1901" height="1102" alt="image" src="https://github.com/user-attachments/assets/a235f331-8563-4237-a59e-3c2aaffc8976" />
 
 
@@ -204,7 +204,8 @@ thead-table head
 # Workshop 7
 <img width="1914" height="1107" alt="image" src="https://github.com/user-attachments/assets/2e71350d-2b30-4217-9fb4-8ec56bf77e5e" />
 
-
+# Lab 7
+<img width="1899" height="1102" alt="image" src="https://github.com/user-attachments/assets/952b22cb-49b1-4bd7-b337-bb15b13ce27d" />
 
 
 
