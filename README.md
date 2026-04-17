@@ -201,7 +201,7 @@ td-table details
 tbody-table body
 tfoot-table foot
 thead-table head
-# Lab 7
+# Workshop 7
 <img width="1914" height="1107" alt="image" src="https://github.com/user-attachments/assets/2e71350d-2b30-4217-9fb4-8ec56bf77e5e" />
 
 
