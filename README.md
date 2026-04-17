@@ -191,3 +191,20 @@ now, let's take a look at some examples of client-side form validation.
 
 
 
+
+# DAY 5
+
+HTML Tables and what they are used for: 
+Table element
+tr-table row
+td-table details
+tbody-table body
+tfoot-table foot
+thead-table head
+# Lab 7
+<img width="1914" height="1107" alt="image" src="https://github.com/user-attachments/assets/2e71350d-2b30-4217-9fb4-8ec56bf77e5e" />
+
+
+
+
+
