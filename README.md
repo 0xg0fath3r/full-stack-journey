@@ -237,5 +237,13 @@ For radio buttons, giving them the same name groups them together, so only one o
 **required attribute**: used to specify that an input field must be filled out before submitting the form.
 **disabled attribute**: used to specify that an input field should be disabled.
 **readonly attribute**: used to specify that an input field is read-only.
+**label element**: used to create a label for an input field.
+**for attribute**: used to specify which input field the label is for.
+**Implicit form association**: inputs can be associated with labels by wrapping the input field inside the label element.
+**Explicit form association**: inputs can be associated with labels by using the for attribute on the label element.
+**button element**: used to create a clickable button. A button can also have a type attribute, which is used to control the behavior of the button when it is activated. Ex. submit, reset, button.
+**fieldset element**: used to group related inputs together.
+**legend element**: used to add a caption to describe the group of inputs.
+
 
 
