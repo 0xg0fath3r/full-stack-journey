@@ -216,4 +216,7 @@ code against the standard HTML specifications. It helps you identify errors and 
 ensuring your web pages are correctly structured and compliant with web standards.
 The most popular validator to use is https://validator.w3.org/, another one is this https://jsonformatter.org/
 
+I also learnt about tools developers use to debug their HTML codes, one of them is DOM (Document Object Oriented); 
+The DOM inspector allows you to inspect the HTML structure of the page you are on.
+
 
