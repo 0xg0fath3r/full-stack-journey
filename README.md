@@ -208,4 +208,12 @@ thead-table head
 <img width="1899" height="1102" alt="image" src="https://github.com/user-attachments/assets/952b22cb-49b1-4bd7-b337-bb15b13ce27d" />
 
 
+# Day 6
+Today, I officially learnt that HTML is a very forgiving language – elements still render even when you make mistakes, 
+like forgetting to include a closing tag.
+To avoid making those errors, you need an HTML validator; An HTML validator is a tool that checks the validity of your HTML 
+code against the standard HTML specifications. It helps you identify errors and warnings in your HTML code, 
+ensuring your web pages are correctly structured and compliant with web standards.
+The most popular validator to use is https://validator.w3.org/, another one is this https://jsonformatter.org/
+
 
