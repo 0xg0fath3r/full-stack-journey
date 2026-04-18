@@ -2,7 +2,7 @@
 **Document my full-stack journey**
 
 # Day 1
-***#HTML***
+***# HTML***
 HTML, which stands for Hypertext Markup Language, is a markup language for creating web pages. 
 When you visit a website and see content like paragraphs, headings, links, images, and videos.
 
@@ -218,5 +218,24 @@ The most popular validator to use is https://validator.w3.org/, another one is t
 
 I also learnt about tools developers use to debug their HTML codes, one of them is DOM (Document Object Oriented); 
 The DOM inspector allows you to inspect the HTML structure of the page you are on.
+
+HTML Form Elements and Attributes
+**form element**: used to create an HTML form for user input.
+**action attribute**: used to specify the URL where the form data should be sent.
+**method attribute**: used to specify the HTTP method to use when sending the form data. The most common methods are GET and POST
+**input element**: used to create an input field for user input.
+**type attribute**: used to specify the type of input field. Ex. text, email, number, radio, checkbox, etc.
+**placeholder attribute**: used to show a hint to the user to show them what to enter in the input field.
+**value attribute**: used to specify the value of the input. If the input has a button type, the value attribute can be used to set the button text.
+**name attribute**: used to assign a name to an input field, which serves as the key when form data is submitted. 
+For radio buttons, giving them the same name groups them together, so only one option in the group can be selected at a time.
+**size attribute**: used to define the number of characters that should be visible as the user types into the input.
+**min attribute**: can be used with input types such as number to specify the minimum value allowed in the input field.
+**max attribute**: can be used with input types such as number to specify the maximum value allowed in the input field.
+**minlength attribute**: used to specify the minimum number of characters required in an input field.
+**maxlength attribute**: used to specify the maximum number of characters allowed in an input field.
+**required attribute**: used to specify that an input field must be filled out before submitting the form.
+**disabled attribute**: used to specify that an input field should be disabled.
+**readonly attribute**: used to specify that an input field is read-only.
 
 
