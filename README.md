@@ -246,4 +246,26 @@ For radio buttons, giving them the same name groups them together, so only one o
 **legend element**: used to add a caption to describe the group of inputs.
 
 
+# Day 7
+
+Website Accessibility
+Accessibility involves creating products and services that everyone can use. In the context of web development, 
+it's making websites that everyone can understand and interact with, including people with visual, auditory, motor, and cognitive disabilities.
+
+To help you create accessible websites, the World Wide Web Consortium, known as W3C, developed a set of international standards that 
+you can follow to make your websites more accessible and easier to use for people with disabilities.
+
+These standards are known as the "Web Content Accessibility Guidelines" (WCAG).
+These guidelines are designed with four core principles in mind, known as POUR.
+
+**P** stands for Perceivable. Users must be able to perceive the information that you are presenting. For example, 
+you can provide alternative text for images, so users who access your website with a screen reader can understand them.
+
+**O** stands for Operable. Users must be able to interact with the user interface. For example, you can make sure that all 
+functionality is accessible through the keyboard too, not just the mouse.
+
+**U** stands for Understandable. Users must be able to understand the information. For example, you can avoid complex 
+sentences and use simple language as much as possible.
+
+**R** stands for Robust. A wide range of browsers and other tools, including assistive technologies, must be able to interpret the content.
 
