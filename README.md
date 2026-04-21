@@ -269,3 +269,22 @@ sentences and use simple language as much as possible.
 
 **R** stands for Robust. A wide range of browsers and other tools, including assistive technologies, must be able to interpret the content.
 
+I also learnt about Screen readers in HTML
+Screen readers are assistive technology programs that help blind and visually impaired people use computers and mobile devices.
+
+Screen readers are not just tools for the blind and visually impaired to access computers and mobile devices.
+
+They empower these individuals to access education, work opportunities, and social media. This ensures digital inclusion 
+and enhances their ability to participate fully in society.
+
+There's a common misconception that screen readers are text-to-speech devices.
+
+However, text-to-speech is just one of the features of a screen reader. Some screen readers even render the text to braille output instead of speech.
+
+Apart from text-to-speech and braille output, other notable features of screen readers are navigation aids and web browsing assistance.
+
+Screen reader programs are also not only made for the blind and visually impaired. Dyslexic individuals and people with 
+cognitive disabilities also use screen readers. All the popular operating systems out there have screen readers built into them.
+To access it on windows is WIN + Ctrl + Enter while in macOS is CMD + F5.
+Android phones have TalkBack built-in. You can turn it on by accessing Settings > Special Function > Accessibility > Talkback.
+Linux has Orca for the desktop environment and Speakup for the Linux terminal.
