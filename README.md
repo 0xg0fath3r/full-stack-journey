@@ -298,4 +298,47 @@ for example while writing the label for donation amount
 i mistakenly put the attribute for the "for" as amount instead of number, 
 although the code runs but it is not the best practice.
 
+Making static content accessible can be relatively straightforward, but dynamic content can be more challenging. 
+This is where WAI-ARIA comes in.
+
+Let's look at what WAI-ARIA is, its purpose, how it works, and some examples.
+
+WAI-ARIA stands for Web Accessibility Initiative - Accessible Rich Internet Applications. 
+It's a specification that enhances accessibility for dynamic content and UI (User Interface) components.
+
+Note that WCAG and WAI-ARIA are not the same. WCAG provides general guidelines for web accessibility, 
+while WAI-ARIA offers specific rules for making dynamic and interactive content accessible for users of assistive technologies.
+
+So, the primary purpose of WAI-ARIA is to improve accessibility for dynamic content and UI components that do not have native HTML equivalents.
+
+WAI-ARIA works by introducing a set of attributes you can add to HTML elements to provide additional semantic information. 
+These attributes are categorized into roles, states, and properties.
+
+There are six main categories of ARIA roles:
+
+Document structure roles
+Widget roles
+Landmark roles
+Live region roles
+Window roles
+And Abstract roles
+Let's take a look at them in more detail:
+
+**Document structure roles** define the overall structure of the web page. With these roles, assistive technologies can understand the 
+relationships between different sections and help users navigate the content.
+
+**Widget roles** define the purpose and functionality of interactive elements, like scrollbars.
+Examples of widget roles include scrollbar, searchbox, separator (when focusable), slider, spinbutton, switch, tab, tabpanel, and treeitem.
+
+**Landmark roles** classify and label the primary sections of a web page. 
+Screen readers use them to provide convenient navigation to important sections of a page. You should use them sparingly to keep the overall layout simple and easy to understand. 
+Examples of landmark roles are banner, complementary, contentinfo, form, main, navigation, region, and search. 
+Each of these roles has a corresponding HTML equivalent, such as header, footer, aside, form, main, nav, section, and search. 
+If you use the proper HTML elements to define the sections of your page then it is not necessary to explicitly add the role attribute to these elements.
+
+**Live region roles** define elements with content that will change dynamically. This way, screen readers and other assistive technologies can announce changes to users with visual disabilities. These roles include: alert, log, marquee, status, and timer.
+
+**Window roles** define sub-windows, like pop up modal dialogues. These roles include alertdialog and dialog. Please note that it is now considered a best practice to use the HTML dialog element and its associated JavaScript methods instead of manually creating a dialog.
+
+**Abstract roles** These roles help organize the document. They're only meant to be used internally by the browser, not by developers, so you should know that they exist but you shouldn't use them on your websites or web applications.
 
