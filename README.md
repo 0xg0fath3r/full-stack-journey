@@ -288,3 +288,14 @@ cognitive disabilities also use screen readers. All the popular operating system
 To access it on windows is WIN + Ctrl + Enter while in macOS is CMD + F5.
 Android phones have TalkBack built-in. You can turn it on by accessing Settings > Special Function > Accessibility > Talkback.
 Linux has Orca for the desktop environment and Speakup for the Linux terminal.
+
+
+# Day 8
+**Lab Debugging**
+<img width="1919" height="1101" alt="image" src="https://github.com/user-attachments/assets/b86726d8-e251-41f8-96f8-9348329cb45a" />
+I learnt some vital lessons; you have to be patient while debugging, it can be very frustrating at times. 
+for example while writing the label for donation amount 
+i mistakenly put the attribute for the "for" as amount instead of number, 
+although the code runs but it is not the best practice.
+
+
