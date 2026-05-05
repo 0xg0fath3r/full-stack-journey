@@ -342,3 +342,8 @@ If you use the proper HTML elements to define the sections of your page then it 
 
 **Abstract roles** These roles help organize the document. They're only meant to be used internally by the browser, not by developers, so you should know that they exist but you shouldn't use them on your websites or web applications.
 
+
+# Movie Review
+<img width="1919" height="1117" alt="image" src="https://github.com/user-attachments/assets/6c31cf55-c94d-405f-8e2e-e57f0d8ad33d" />
+
+
