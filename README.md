@@ -346,4 +346,8 @@ If you use the proper HTML elements to define the sections of your page then it 
 # Movie Review
 <img width="1919" height="1117" alt="image" src="https://github.com/user-attachments/assets/6c31cf55-c94d-405f-8e2e-e57f0d8ad33d" />
 
+# Lab
+<img width="1909" height="1109" alt="image" src="https://github.com/user-attachments/assets/cb1d1ad1-e59c-486b-84f6-3806c5783655" />
+
+
 
